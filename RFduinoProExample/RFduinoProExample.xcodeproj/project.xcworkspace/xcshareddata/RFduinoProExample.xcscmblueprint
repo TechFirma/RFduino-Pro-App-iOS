@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a58e1aa4-0b10-8f4e-a11c-da874dee77c8++3125",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a58e1aa4-0b10-8f4e-a11c-da874dee77c8++3125" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a58e1aa4-0b10-8f4e-a11c-da874dee77c8++3125" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A5B7A49F-1EC3-4735-B409-6EB75DC5679D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a58e1aa4-0b10-8f4e-a11c-da874dee77c8++3125" : "RFduino%20Pro\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RFduinoProExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cell Apps\/iOS\/RFduinoProExample\/RFduinoProExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/home.thebacs.com:8443\/svn\/techfirma",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a58e1aa4-0b10-8f4e-a11c-da874dee77c8++3125"
+    }
+  ]
+}
